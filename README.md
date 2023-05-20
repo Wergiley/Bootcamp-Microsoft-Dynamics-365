@@ -1,6 +1,6 @@
 # Bootcamp-Microsoft-Dynamics-365
 
-<img src="1b7d9511-9093-40b7-a710-45b46afa9d35.png" align="right" width="200px">
+<img src="1b7d9511-9093-40b7-a710-45b46afa9d35.png" align="right" width="350px">
 
 - 34 cursos.
 - 4 desafios de projeto.
