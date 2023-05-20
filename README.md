@@ -7,7 +7,7 @@
 - 5 desafios de código.
 - 1 live.
 - 6 Mentorias.
-- Carga Horária 75h.
+- Carga Horária 95h.
 - Data de Início: 06/03/23.
 - Finalizado em: 20/05/23.
 - Data Final: 30/05/23.
