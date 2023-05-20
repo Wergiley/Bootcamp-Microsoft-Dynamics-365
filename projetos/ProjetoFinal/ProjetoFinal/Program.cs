@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MeuPrimeiroProjeto
+namespace ProjetoFinal
 {
     internal class Program
     {

@@ -7,7 +7,7 @@ using Microsoft.Xrm.Sdk;
 using Microsoft.Xrm.Sdk.Query;
 using Microsoft.Xrm.Tooling.Connector;
 
-namespace MeuPrimeiroProjeto
+namespace ProjetoFinal
 {
     internal class DataModel
     {
