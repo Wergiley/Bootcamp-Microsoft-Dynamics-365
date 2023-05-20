@@ -9,6 +9,7 @@
 - 6 Mentorias.
 - Carga Horária 75h.
 - Data de Início: 06/03/23.
+- Finalizado em: 20/05/23.
 - Data Final: 30/05/23.
 - Tecnologias: C# e JS...
 - <a href="https://www.dio.me/certificate/493F7281">Certificação:</a>
